@@ -19,7 +19,7 @@
 		"url": "https://github.com/freeCodeCamp/boilerplate-project-exercisetracker"
 	},
 	"engines": {
-		"node": "16.x"
+		"node": "16.7.0"
 	},
 	"license": "MIT",
 	"keywords": [
